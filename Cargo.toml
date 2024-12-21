@@ -6,7 +6,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 
 [[bin]]
-name = "rust-x-arduino"
+name = "control-servo"
 test = false
 bench = false
 
